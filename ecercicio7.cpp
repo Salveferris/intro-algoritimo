@@ -12,4 +12,5 @@ int main()
     cin>>consu;
     media= dist/consu;
     cout<<"O consumo foi de:"<<media<<"kilometros por litro";
+    testando git denovo
 }
