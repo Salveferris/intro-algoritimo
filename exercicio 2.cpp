@@ -6,7 +6,7 @@ int main()
 {
     float nota1,peso1,nota2,peso2,nota3,peso3,media;
 
-    cout<<"Digite a nota 1:";
+    cout<<"Digite a nota 1 mano:";
     cin>>nota1;
     cout<<"Digite o peso da nota 1:";
     cin>>peso1;
